@@ -3,29 +3,29 @@
 https://mcdn.daserste.de/daserste/de/master_3744.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-id="prosieben.de" tvg-logo=https://www.prosiebensat1.com/uploads/2015/10/26/ikone_digital.jpg"",ProSieben
+#EXTINF:-1 tvg-id="Pro7.de" tvg-logo=https://www.prosiebensat1.com/uploads/2015/10/26/ikone_digital.jpg"",ProSieben
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosieben-de&mode=play_video
-#EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://www.prosiebensat1.com/uploads/2016/10/11/SAT1_3D_BM_RGB.png",Sat1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="https://www.prosiebensat1.com/uploads/2016/10/11/SAT1_3D_BM_RGB.png",Sat1
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=sat1-de&mode=play_video
-#EXTINF:-1 tvg-id="kabeleins.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/05/k1_2d_bm_cmyk.jpg",Kabeleins
+#EXTINF:-1 tvg-id="Kabel.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/05/k1_2d_bm_cmyk.jpg",Kabeleins
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=kabeleins-de&mode=play_video
-#EXTINF:-1 tvg-id="dmax.de" tvg-logo="https://s3.eu-west-1.amazonaws.com/loma-media-de/dmax-image-ba56e17f-d6b8-4bda-91df-0edb251b50be.png",DMAX
+#EXTINF:-1 tvg-id="DMax.de" tvg-logo="https://s3.eu-west-1.amazonaws.com/loma-media-de/dmax-image-ba56e17f-d6b8-4bda-91df-0edb251b50be.png",DMAX
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=dmax-de&mode=play_video
-#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/p7maxx_logo_1c.jpg",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/p7maxx_logo_1c.jpg",ProSieben MAXX
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosiebenmaxx-de&mode=play_video
-#EXTINF:-1 tvg-id="comedy-central.de" tvg-logo=https://senderlogos.images.dvbdata.com/132x26/532.png"",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentralVIVA.de" tvg-logo=https://senderlogos.images.dvbdata.com/132x26/532.png"",Comedy Central
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=comedy-central-de&mode=play_video
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/sixx_ikone_cmyk.jpeg",Sixx
+#EXTINF:-1 tvg-id="Sixx.de" tvg-logo="https://www.prosiebensat1.com/uploads/2015/11/04/sixx_ikone_cmyk.jpeg",Sixx
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=sixx-de&mode=play_video
 #EXTINF:-1 tvg-id="joyn-primetime-hd.de" tvg-logo="",JOYN Primetime HD
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=joyn-primetime-de-hd&mode=play_video
-#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-logo="https://www.prosiebensat1.com/uploads/2016/07/19/K1D_WBM_RGB.jpg",Kabeleins Doku
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-logo="https://www.prosiebensat1.com/uploads/2016/07/19/K1D_WBM_RGB.jpg",Kabeleins Doku
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=kabeleinsdoku-de&mode=play_video
 #EXTINF:-1 tvg-id="Tele5.de" tvg-logo="https://senderlogos.images.dvbdata.com/132x26/277.png",Tele5
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=tele5-de&mode=play_video
-#EXTINF:-1 tvg-id="eurosport1.de" tvg-logo="https://senderlogos.images.dvbdata.com/132x26/65.png",Eurosport1
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-logo="https://senderlogos.images.dvbdata.com/132x26/65.png",Eurosport1
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=eurosport1-de&mode=play_video
-#EXTINF:-1 tvg-id="sport1.de" tvg-logo="https://senderlogos.images.dvbdata.com/132x26/64.png",Sport1
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-logo="https://senderlogos.images.dvbdata.com/132x26/64.png",Sport1
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=sport1-de&mode=play_video
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
