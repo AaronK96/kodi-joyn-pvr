@@ -27,6 +27,16 @@ plugin://plugin.video.joyn/?stream_type=LIVE&video_id=tele5-de&mode=play_video
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=eurosport1-de&mode=play_video
 #EXTINF:-1 tvg-id="Sport1HD.de" tvg-logo="https://download.avm.de/tv/logos/sport1.png",Sport1
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=sport1-de&mode=play_video
+#EXTINF:-1 tvg-id="RTL.ch" tvg-name="RTL_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl_hd.png" group-title="German",RTL HD (DE)
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_ch_hd
+#EXTINF:-1 tvg-id="RTL2.ch" tvg-name="RTL_Zwei_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl2_hd.png" group-title="German",RTL2 HD (DE)
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_2_hd
+#EXTINF:-1 tvg-id="SuperRTL.ch" tvg-name="Super_RTL_Schweiz_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/superrtl_hd.png" group-title="German",SUPER RTL HD (DE)
+https://streams.wilmaa.com/m3u8/get?channelId=super_rtl_hd
+#EXTINF:-1 tvg-id="RTLNitro.ch" tvg-name="NITRO_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl_nitro_hd.png" group-title="German",RTL NITRO HD (DE)
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_nitro_hd
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTLplus_HD" tvg-shift="" radio="" tvg-logo="http://sgkodi.de/TV/logo/wilmaa/rtl_plus.png" group-title="German",RTLplus (DE)
+https://streams.wilmaa.com/m3u8/get?channelId=rtl_plus
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
